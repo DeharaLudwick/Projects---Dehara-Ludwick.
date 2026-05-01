@@ -1,4 +1,4 @@
-# Projects---Dehara-Ludwick.
+# Projects- Dehara Ludwick.
 # Hi, I'm Dehara
 
 An Undergraduate student in Data Science  
