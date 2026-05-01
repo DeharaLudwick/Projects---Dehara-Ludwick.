@@ -3,7 +3,7 @@
 
 An Undergraduate student in Data Science  
 
-I am Currently working on projects — will be uploaded soon  
+I am Currently working on projects will be uploaded soon  
 
 ## Skills
 - Python
